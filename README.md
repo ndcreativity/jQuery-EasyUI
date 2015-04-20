@@ -1,14 +1,14 @@
-# About This Repository
+## About This Repository
 Since jQ EasyUI is not offically on Github and since the others are dated or eventually become dated this is my own repo of http://www.jeasyui.com/download/downloads/jquery-easyui-1.4.2.zip
 
 This will only serve as a clone of the latest version. Do not submit pull requests to this repo unless it is a newer version than the one provided. You may post issues in an attempt to get help from others in the community. But I will not push community patches to this repo.
 
-# Offical Read Me
+## Offical Read Me
 Current Version: 1.4.2
 This software is allowed to use under GPL or you need to buy commercial license for better support or other purpose.
 Please contact us at info@jeasyui.com
 
-# License Information
+## License Information
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
