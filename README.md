@@ -5,7 +5,6 @@ This will only serve as a clone of the latest version. Do not submit pull reques
 
 # Offical Read Me
 Current Version: 1.4.2
-======================
 This software is allowed to use under GPL or you need to buy commercial license for better support or other purpose.
 Please contact us at info@jeasyui.com
 
